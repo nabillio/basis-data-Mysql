@@ -8,31 +8,43 @@ Mata Kuliah : Basis Data
 ```
 
 
-tampilkan semua isi/record tabel! 
+<h2>tampilkan semua isi/record tabel! 
 
- ![image](sql_tuggas1/ss1.png)
+ ![image](ss1.png)
+<br>
+<h2> Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi:  1979-08-31! 
 
- Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi:  1979-08-31! 
+![image](ss2.png)
 
-![image](sql_tuggas1/ss2.png)
+<br>
+<h2> Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama ari saja</h2>
+![image](ss3.png)
 
- Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama ari saja
-![image](sql_tuggas1/ss3.png)
+<br>
 
-hapus Mahasiswa yang bernama Dina!  
-![image](sql_tuggas1/ss4.png)
+<h2> hapus Mahasiswa yang bernama Dina!  </h2>
 
-Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama 
-dengan 1996-1-2!  
-![image](sql_tuggas1/ss5.png)
+![image](ss4.png)
 
- Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin 
-perempuan!  
-![image](sql_tuggas1/ss6.png)
+<br>
+<h2> Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama 
+dengan 1996-1-2!  </h2>
 
-Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki 
-atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
-![image](sql_tuggas1/ss7.png)
+![image](ss5.png)
 
- Tampilkan data mahasiswa terurut berdasarkan nama
-![image](sql_tuggas1/ss9.png)
+ <br>
+<h2>Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin 
+perempuan!  </h2>
+
+![image](ss6.png)
+
+<br>
+<h2>Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki 
+atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita! </h2>
+
+![image](ss7.png)
+
+ <br>
+<h2>Tampilkan data mahasiswa terurut berdasarkan nama </h2>
+
+![image](ss9.png)
